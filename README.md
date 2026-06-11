@@ -1,5 +1,5 @@
 # About Me
-University of Wisconsin-Madison for Computer Sciences<br>Interested in Machine Learning and Artificial Intelligence<br>Currently working on side projects
+CS & DS @ the University of Wisconsin-Madison
 
 
 ## Socials
